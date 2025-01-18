@@ -1,7 +1,7 @@
 # dpatel25
 Hello world, this is my profile
 
-### Connect with me:
+Connect with me:
 
 <div align="center">
 
